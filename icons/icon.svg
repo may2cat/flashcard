@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="96" fill="#1a1208"/>
+  <rect x="80" y="120" width="352" height="272" rx="20" fill="#2a1e06" stroke="#7a5c1e" stroke-width="6"/>
+  <rect x="108" y="148" width="296" height="216" rx="10" fill="#faf8f2"/>
+  <text x="256" y="300" font-family="Georgia,serif" font-size="130" font-style="italic" text-anchor="middle" fill="#1a1208">A</text>
+  <text x="256" y="380" font-family="Georgia,serif" font-size="36" text-anchor="middle" fill="#c8962a">英语闪卡</text>
+  <polygon points="256,60 268,90 300,90 276,108 284,140 256,122 228,140 236,108 212,90 244,90" fill="#d4a853"/>
+</svg>

@@ -1,0 +1,17 @@
+{
+  "name": "英语闪卡",
+  "short_name": "闪卡",
+  "description": "中英文闪卡学习应用",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1a1208",
+  "theme_color": "#d4a853",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
